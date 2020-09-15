@@ -35,7 +35,6 @@ Feel free to send [pull requests](pulls) to add more links!
 * Z. Hu, Y. Dong, K. Wang, K.-W. Chang, and Y. Sun, GPT-GNN: Generative Pre-Training of Graph Neural Networks, in KDD, 2020. [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403237), [Code](https://github.com/acbull/GPT-GNN)]
 * Y. Zhu, Y. Xu, F. Yu, S. Wu, and L. Wang, CAGNN: Cluster-Aware Graph Neural Networks for Unsupervised Graph Representation Learning, 2020. [[PDF](http://arxiv.org/abs/2009.01674)]
 * W. Jin, T. Derr, H. Liu, Y. Wang, S. Wang, Z. Liu, and J. Tang, Self-supervised Learning on Graphs: Deep Insights and New Direction, 2020. [[PDF](http://arxiv.org/abs/2006.10141), [Code](https://github.com/ChandlerBang/SelfTask-GNN)]
-* L. Yu, S. Pei, C. Zhang, L. Ding, J. Zhou, L. Li, and X. Zhang, Self-supervised Smoothing Graph Neural Networks, 2020. [[PDF](http://arxiv.org/abs/2009.00934)]
 
 ### Contrastive Methods
 
@@ -46,6 +45,7 @@ Feel free to send [pull requests](pulls) to add more links!
 * K. Hassani and A. H. Khasahmadi, Contrastive Multi-View Representation Learning on Graphs, in ICML, 2020. [[PDF](http://arxiv.org/abs/2006.05582), [Code](https://github.com/kavehhassani/mvgrl)]
 * Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang, Deep Graph Contrastive Representation Learning, in ICML-W (GRL+), 2020. [[PDF](http://arxiv.org/abs/2006.04131), [Code](https://github.com/CRIPAC-DIG/GRACE/)]
 * J. Qiu, Q. Chen, Y. Dong, J. Zhang, H. Yang, M. Ding, K. Wang, and J. Tang, GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training, in KDD, 2020. [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403168), [Code](https://github.com/THUDM/GCC)]
+* L. Yu, S. Pei, C. Zhang, L. Ding, J. Zhou, L. Li, and X. Zhang, Self-supervised Smoothing Graph Neural Networks, 2020. [[PDF](http://arxiv.org/abs/2009.00934)]
 
 ## Blog Posts
 
