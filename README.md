@@ -38,15 +38,17 @@ Feel free to send [pull requests](pulls) to add more links!
 
 ### Contrastive Methods
 
-* P. Veličković, W. Fedus, W. L. Hamilton, P. Liò, Y. Bengio, and R. D. Hjelm, Deep Graph Infomax, in ICLR, 2019. [[PDF](https://openreview.net/forum?id=rklz9iAcKQ), [Code](https://github.com/PetarV-/DGI)]
-* F. L. Opolka, A. Solomon, C. Cangea, P. Veličković, P. Liò, and R. D. Hjelm, Spatio-Temporal Deep Graph Infomax, in ICLR-W (RLGM), 2019. [[PDF](https://arxiv.org/abs/1904.06316)]
-* Z. Peng, W. Huang, M. Luo, Q. Zheng, Y. Rong, T. Xu, and J. Huang, Graph Representation Learning via Graphical Mutual Information Maximization, in WWW, 2020. [[PDF](https://dl.acm.org/doi/10.1145/3366423.3380112), [Code](https://github.com/zpeng27/GMI)]
-* T. N. Kipf, E. van der Pol, and M. Welling, Contrastive Learning of Structured World Models, in ICLR, 2020. [[PDF](https://openreview.net/forum?id=H1gax6VtDB), [Code](https://github.com/tkipf/c-swm)]
-* K. Hassani and A. H. Khasahmadi, Contrastive Multi-View Representation Learning on Graphs, in ICML, 2020. [[PDF](https://arxiv.org/abs/2006.05582), [Code](https://github.com/kavehhassani/mvgrl)]
-* Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang, Deep Graph Contrastive Representation Learning, in ICML-W (GRL+), 2020. [[PDF](https://arxiv.org/abs/2006.04131), [Code](https://github.com/CRIPAC-DIG/GRACE/)]
-* J. Qiu, Q. Chen, Y. Dong, J. Zhang, H. Yang, M. Ding, K. Wang, and J. Tang, GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training, in KDD, 2020. [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403168), [Code](https://github.com/THUDM/GCC)]
-* L. Yu, S. Pei, C. Zhang, L. Ding, J. Zhou, L. Li, and X. Zhang, Self-supervised Smoothing Graph Neural Networks, 2020. [[PDF](https://arxiv.org/abs/2009.00934)]
-* C. Mavromatis and G. Karypis, Graph InfoClust: Leveraging Cluster-Level Node Information for Unsupervised Graph Representation Learning, 2020. [[PDF](https://arxiv.org/abs/2009.06946)]
+- P. Veličković, W. Fedus, W. L. Hamilton, P. Liò, Y. Bengio, and R. D. Hjelm, Deep Graph Infomax, in ICLR, 2019. [[PDF](https://openreview.net/forum?id=rklz9iAcKQ), [Code](https://github.com/PetarV-/DGI)]
+- F. L. Opolka, A. Solomon, C. Cangea, P. Veličković, P. Liò, and R. D. Hjelm, Spatio-Temporal Deep Graph Infomax, in ICLR-W (RLGM), 2019. [[PDF](https://arxiv.org/abs/1904.06316)]
+- Z. Peng, W. Huang, M. Luo, Q. Zheng, Y. Rong, T. Xu, and J. Huang, Graph Representation Learning via Graphical Mutual Information Maximization, in WWW, 2020. [[PDF](https://dl.acm.org/doi/10.1145/3366423.3380112), [Code](https://github.com/zpeng27/GMI)]
+- T. N. Kipf, E. van der Pol, and M. Welling, Contrastive Learning of Structured World Models, in ICLR, 2020. [[PDF](https://openreview.net/forum?id=H1gax6VtDB), [Code](https://github.com/tkipf/c-swm)]
+- K. Hassani and A. H. Khasahmadi, Contrastive Multi-View Representation Learning on Graphs, in ICML, 2020. [[PDF](https://arxiv.org/abs/2006.05582), [Code](https://github.com/kavehhassani/mvgrl)]
+- Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang, Deep Graph Contrastive Representation Learning, in ICML-W (GRL+), 2020. [[PDF](https://arxiv.org/abs/2006.04131), [Code](https://github.com/CRIPAC-DIG/GRACE/)]
+- J. Qiu, Q. Chen, Y. Dong, J. Zhang, H. Yang, M. Ding, K. Wang, and J. Tang, GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training, in KDD, 2020. [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403168), [Code](https://github.com/THUDM/GCC)]
+- L. Yu, S. Pei, C. Zhang, L. Ding, J. Zhou, L. Li, and X. Zhang, Self-supervised Smoothing Graph Neural Networks, 2020. [[PDF](https://arxiv.org/abs/2009.00934)]
+- C. Mavromatis and G. Karypis, Graph InfoClust: Leveraging Cluster-Level Node Information for Unsupervised Graph Representation Learning, 2020. [[PDF](https://arxiv.org/abs/2009.06946)]
+- Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang, Graph Contrastive Learning with Adaptive Augmentation, 2020. [[PDF](http://arxiv.org/abs/2010.14945)]
+- Y. Wang, Y. Min, X. Chen, and J. Wu, Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction, 2020. [[PDF](https://arxiv.org/abs/2010.11711)]
 
 ## Blog Posts
 
