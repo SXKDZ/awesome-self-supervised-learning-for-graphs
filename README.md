@@ -45,6 +45,8 @@ Feel free to send [pull requests](pulls) to add more links!
 - K. Hassani and A. H. Khasahmadi, Contrastive Multi-View Representation Learning on Graphs, in ICML, 2020. [[PDF](https://arxiv.org/abs/2006.05582), [Code](https://github.com/kavehhassani/mvgrl)]
 - Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang, Deep Graph Contrastive Representation Learning, in ICML-W (GRL+), 2020. [[PDF](https://arxiv.org/abs/2006.04131), [Code](https://github.com/CRIPAC-DIG/GRACE/)]
 - J. Qiu, Q. Chen, Y. Dong, J. Zhang, H. Yang, M. Ding, K. Wang, and J. Tang, GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training, in KDD, 2020. [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403168), [Code](https://github.com/THUDM/GCC)]
+- Y. You, T. Chen, Y. Sui, T. Chen, Z. Wang, and Y. Shen, Pre-Training Graph Neural Networks: A Contrastive Learning Framework with Augmentations, in NeurIPS, 2020. [[PDF](http://arxiv.org/abs/2010.13902)]
+- Y. Jiao, Y. Xiong, J. Zhang, Y. Zhang, T. Zhang, and Y. Zhu, Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning, in ICDM 2020. [[PDF](http://arxiv.org/abs/2009.10273)]
 - L. Yu, S. Pei, C. Zhang, L. Ding, J. Zhou, L. Li, and X. Zhang, Self-supervised Smoothing Graph Neural Networks, 2020. [[PDF](https://arxiv.org/abs/2009.00934)]
 - C. Mavromatis and G. Karypis, Graph InfoClust: Leveraging Cluster-Level Node Information for Unsupervised Graph Representation Learning, 2020. [[PDF](https://arxiv.org/abs/2009.06946)]
 - Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang, Graph Contrastive Learning with Adaptive Augmentation, 2020. [[PDF](http://arxiv.org/abs/2010.14945)]
