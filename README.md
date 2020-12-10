@@ -52,6 +52,7 @@ Feel free to send [pull requests](pulls) to add more links!
 - Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang, Graph Contrastive Learning with Adaptive Augmentation, 2020. [[PDF](http://arxiv.org/abs/2010.14945)]
 - Y. Wang, Y. Min, X. Chen, and J. Wu, Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction, 2020. [[PDF](https://arxiv.org/abs/2010.11711)]
 - V. Verma, M.-T. Luong, K. Kawaguchi, H. Pham, and Q. V. Le, Towards Domain-Agnostic Contrastive Learning, 2020. [[PDF](https://arxiv.org/abs/2011.04419)]
+- J. Robinson, C.-Y. Chuang, S. Sra, and S. Jegelka, Contrastive Learning with Hard Negative Samples, 2020.  [[PDF](http://arxiv.org/abs/2010.04592v1)]
 
 ## Blog Posts
 
