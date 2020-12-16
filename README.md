@@ -50,12 +50,12 @@ Feel free to send [pull requests](pulls) to add more links!
 - L. Yu, S. Pei, C. Zhang, L. Ding, J. Zhou, L. Li, and X. Zhang, Self-supervised Smoothing Graph Neural Networks, 2020. [[PDF](https://arxiv.org/abs/2009.00934)]
 - C. Mavromatis and G. Karypis, Graph InfoClust: Leveraging Cluster-Level Node Information for Unsupervised Graph Representation Learning, 2020. [[PDF](https://arxiv.org/abs/2009.06946)]
 - Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang, Graph Contrastive Learning with Adaptive Augmentation, 2020. [[PDF](http://arxiv.org/abs/2010.14945)]
-- Y. Wang, Y. Min, X. Chen, and J. Wu, Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction, 2020. [[PDF](https://arxiv.org/abs/2010.11711)]
 - V. Verma, M.-T. Luong, K. Kawaguchi, H. Pham, and Q. V. Le, Towards Domain-Agnostic Contrastive Learning, 2020. [[PDF](https://arxiv.org/abs/2011.04419)]
 - J. Robinson, C.-Y. Chuang, S. Sra, and S. Jegelka, Contrastive Learning with Hard Negative Samples, 2020.  [[PDF](http://arxiv.org/abs/2010.04592v1)]
 - J. Cao, X. Lin, S. Guo, L. Liu, T. Liu, and B. Wang, Bipartite Graph Embedding via Mutual Information Maximization, in WSDM, 2021. [[PDF](https://arxiv.org/abs/2012.05442v1), [Code](https://github.com/caojiangxia/BiGI)]
 
 ### Applications
+- Y. Wang, Y. Min, X. Chen, and J. Wu, Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction, 2020. [[PDF](https://arxiv.org/abs/2010.11711)]
 - X. Xia, H. Yin, J. Yu, Q. Wang, L. Cui, and X. Zhang, Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation, in AAAI, 2021. [[PDF](https://arxiv.org/abs/2012.06852), [Code](https://github.com/xiaxin1998/DHCN)]
 
 ## Blog Posts
