@@ -53,8 +53,10 @@ Feel free to send [pull requests](pulls) to add more links!
 - V. Verma, M.-T. Luong, K. Kawaguchi, H. Pham, and Q. V. Le, Towards Domain-Agnostic Contrastive Learning, 2020. [[PDF](https://arxiv.org/abs/2011.04419)]
 - J. Robinson, C.-Y. Chuang, S. Sra, and S. Jegelka, Contrastive Learning with Hard Negative Samples, 2020.  [[PDF](http://arxiv.org/abs/2010.04592v1)]
 - J. Cao, X. Lin, S. Guo, L. Liu, T. Liu, and B. Wang, Bipartite Graph Embedding via Mutual Information Maximization, in WSDM, 2021. [[PDF](https://arxiv.org/abs/2012.05442v1), [Code](https://github.com/caojiangxia/BiGI)]
+- S. Zhang, Z. Hu, A. Subramonian, and Y. Sun, Motif-Driven Contrastive Learning of Graph Representations, 2020. [[PDF](http://arxiv.org/abs/2012.12533)]
 
 ### Applications
+
 - Y. Wang, Y. Min, X. Chen, and J. Wu, Multi-view Graph Contrastive Representation Learning for Drug-Drug Interaction Prediction, 2020. [[PDF](https://arxiv.org/abs/2010.11711)]
 - X. Xia, H. Yin, J. Yu, Q. Wang, L. Cui, and X. Zhang, Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation, in AAAI, 2021. [[PDF](https://arxiv.org/abs/2012.06852), [Code](https://github.com/xiaxin1998/DHCN)]
 
