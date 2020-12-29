@@ -47,7 +47,7 @@ Feel free to send [pull requests](pulls) to add more links!
 - J. Qiu, Q. Chen, Y. Dong, J. Zhang, H. Yang, M. Ding, K. Wang, and J. Tang, GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training, in KDD, 2020. [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403168), [Code](https://github.com/THUDM/GCC)]  ▷*Pretraining graphs*
 - Y. You, T. Chen, Y. Sui, T. Chen, Z. Wang, and Y. Shen, Graph Contrastive Learning with Augmentations, in NeurIPS, 2020. [[PDF](http://arxiv.org/abs/2010.13902), [Code](https://github.com/Shen-Lab/GraphCL)]  ▷*Node representation learning, pretraining graphs*
 - Y. Jiao, Y. Xiong, J. Zhang, Y. Zhang, T. Zhang, and Y. Zhu, Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning, in ICDM, 2020. [[PDF](http://arxiv.org/abs/2009.10273)]  ▷*Sub-graph representation learning*
-- J. Cao, X. Lin, S. Guo, L. Liu, T. Liu, and B. Wang, Bipartite Graph Embedding via Mutual Information Maximization, in WSDM, 2021. [[PDF](https://arxiv.org/abs/2012.05442v1), [Code](https://github.com/caojiangxia/BiGI)]  ▷**Bipartite graph representation learning*
+- J. Cao, X. Lin, S. Guo, L. Liu, T. Liu, and B. Wang, Bipartite Graph Embedding via Mutual Information Maximization, in WSDM, 2021. [[PDF](https://arxiv.org/abs/2012.05442v1), [Code](https://github.com/caojiangxia/BiGI)]  ▷*Bipartite graph representation learning*
 - L. Yu, S. Pei, C. Zhang, L. Ding, J. Zhou, L. Li, and X. Zhang, Self-supervised Smoothing Graph Neural Networks, 2020. [[PDF](https://arxiv.org/abs/2009.00934)]  ▷*Node representation learning*
 - C. Mavromatis and G. Karypis, Graph InfoClust: Leveraging Cluster-Level Node Information for Unsupervised Graph Representation Learning, 2020. [[PDF](https://arxiv.org/abs/2009.06946)]  ▷*Node representation learning*
 - Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang, Graph Contrastive Learning with Adaptive Augmentation, 2020. [[PDF](http://arxiv.org/abs/2010.14945)]  ▷*Node representation learning*
@@ -67,3 +67,4 @@ Feel free to send [pull requests](pulls) to add more links!
 
 ## Talks
 
+* Petar Veličković, Unsupervised Learning with Graph Neural Networks, ACDL 2019 Satellite Workshop on Graph Neural Networks, 2019. [[URL](https://petar-v.com/talks/ACDL-UnsupGraph.pdf)]
