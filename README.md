@@ -29,12 +29,12 @@ Feel free to send [pull requests](pulls) to add more links!
 
 ### Generative/Predictive Methods
 
-* K. Sun, Z. Lin, and Z. Zhu, Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes, in AAAI, 2020. [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/6048/5904), [Code](https://github.com/datake/M3S)]
-* W. Hu, B. Liu, J. Gomes, M. Zitnik, P. Liang, V. Pande, and J. Leskovec, Strategies for Pre-training Graph Neural Networks, in ICLR, 2020. [[PDF](https://openreview.net/forum?id=HJlWWJSFDH), [Code](https://github.com/snap-stanford/pretrain-gnns/)]
-* Y. You, T. Chen, Z. Wang, and Y. Shen, When Does Self-Supervision Help Graph Convolutional Networks?, in ICML, 2020. [[PDF](http://arxiv.org/abs/2006.09136), [Code](https://github.com/Shen-Lab/SS-GCNs)]
-* Z. Hu, Y. Dong, K. Wang, K.-W. Chang, and Y. Sun, GPT-GNN: Generative Pre-Training of Graph Neural Networks, in KDD, 2020. [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403237), [Code](https://github.com/acbull/GPT-GNN)]
-* Y. Zhu, Y. Xu, F. Yu, S. Wu, and L. Wang, CAGNN: Cluster-Aware Graph Neural Networks for Unsupervised Graph Representation Learning, 2020. [[PDF](https://arxiv.org/abs/2009.01674)]
-* W. Jin, T. Derr, H. Liu, Y. Wang, S. Wang, Z. Liu, and J. Tang, Self-supervised Learning on Graphs: Deep Insights and New Direction, 2020. [[PDF](https://arxiv.org/abs/2006.10141), [Code](https://github.com/ChandlerBang/SelfTask-GNN)]
+* K. Sun, Z. Lin, and Z. Zhu, Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes, in AAAI, 2020. [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/6048/5904), [Code](https://github.com/datake/M3S)]  ▷*Node representation learning*
+* W. Hu, B. Liu, J. Gomes, M. Zitnik, P. Liang, V. Pande, and J. Leskovec, Strategies for Pre-training Graph Neural Networks, in ICLR, 2020. [[PDF](https://openreview.net/forum?id=HJlWWJSFDH), [Code](https://github.com/snap-stanford/pretrain-gnns/)]  ▷*Pretraining graphs*
+* Y. You, T. Chen, Z. Wang, and Y. Shen, When Does Self-Supervision Help Graph Convolutional Networks?, in ICML, 2020. [[PDF](http://arxiv.org/abs/2006.09136), [Code](https://github.com/Shen-Lab/SS-GCNs)]  ▷*Node representation learning*
+* Z. Hu, Y. Dong, K. Wang, K.-W. Chang, and Y. Sun, GPT-GNN: Generative Pre-Training of Graph Neural Networks, in KDD, 2020. [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403237), [Code](https://github.com/acbull/GPT-GNN)]  ▷*Pretraining graphs*
+* Y. Zhu, Y. Xu, F. Yu, S. Wu, and L. Wang, CAGNN: Cluster-Aware Graph Neural Networks for Unsupervised Graph Representation Learning, 2020. [[PDF](https://arxiv.org/abs/2009.01674)]  ▷*Node representation learning*
+* W. Jin, T. Derr, H. Liu, Y. Wang, S. Wang, Z. Liu, and J. Tang, Self-supervised Learning on Graphs: Deep Insights and New Direction, 2020. [[PDF](https://arxiv.org/abs/2006.10141), [Code](https://github.com/ChandlerBang/SelfTask-GNN)]  ▷*Node representation learning*
 
 ### Contrastive Methods
 
