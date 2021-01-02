@@ -25,7 +25,11 @@ Feel free to send [pull requests](pulls) to add more links!
 
 ### Survey
 
-* X. Liu, F. Zhang, Z. Hou, Z. Wang, L. Mian, J. Zhang, and J. Tang, Self-supervised Learning: Generative or Contrastive, 2020. [[PDF](https://arxiv.org/abs/2006.08218)]
+* Self-supervised Learning: Generative or Contrastive
+
+  X. Liu, F. Zhang, Z. Hou, Z. Wang, L. Mian, J. Zhang, and J. Tang
+
+  [[PDF](https://arxiv.org/abs/2006.08218)]
 
 ### Generative/Predictive Methods
 
