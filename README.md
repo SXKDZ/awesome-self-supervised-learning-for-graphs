@@ -1,4 +1,6 @@
-# Awesome Self-Supervised Learning for Graphs  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Self-Supervised Learning for Graphs
+
+ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/SXKDZ/awesome-self-supervised-learning-for-graphs?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/SXKDZ/awesome-self-supervised-learning-for-graphs?color=green&label=Fork)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=SXKDZ.awesome-self-supervised-learning-for-graphs)
 
 A curated list for awesome self-supervised graph representation learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), and [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning).
 
@@ -243,7 +245,7 @@ Feel free to send [pull requests](pulls) to add more links!
 
   Ankesh Anand
 
-  2020 [[URL](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)]
+  2020  [[URL](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)]
 
 ## Talks
 
@@ -251,4 +253,4 @@ Feel free to send [pull requests](pulls) to add more links!
 
   Petar Veličković
 
-  ACDL 2019 Satellite Workshop on Graph Neural Networks [[URL](https://petar-v.com/talks/ACDL-UnsupGraph.pdf)]
+  ACDL 2019 Satellite Workshop on Graph Neural Networks  [[URL](https://petar-v.com/talks/ACDL-UnsupGraph.pdf)]
