@@ -165,6 +165,22 @@ Feel free to send [pull requests](pulls) to add more links!
 
   ▷*Bipartite graph representation learning*
 
+- Contrastive Self-supervised Learning for Graph Classification
+
+  J. Zeng and P. Xie
+
+  AAAI 2021  [[PDF](https://arxiv.org/abs/2009.05923)]
+
+  ▷*Graph representation learning*
+
+- Contrastive and Generative Graph Convolutional Networks for Graph-Based Semi-Supervised Learning
+
+  S. Wan, S. Pan, J. Yang, and C. Gong
+
+  AAAI 2021  [[PDF](https://arxiv.org/abs/2009.07111)]
+
+  ▷*Semi-supervised node representation learning*
+
 - Self-supervised Smoothing Graph Neural Networks
 
   L. Yu, S. Pei, C. Zhang, L. Ding, J. Zhou, L. Li, and X. Zhang
