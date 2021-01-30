@@ -181,6 +181,22 @@ Feel free to send [pull requests](pulls) to add more links!
 
   ▷*Semi-supervised node representation learning*
 
+- Graph Contrastive Learning with Adaptive Augmentation
+
+  Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang
+
+  WWW 2021  [[PDF](http://arxiv.org/abs/2010.14945)]
+
+  ▷*Node representation learning*
+
+- Improving Graph Representation Learning by Contrastive Regularization
+
+  K. Ma, H. Yang, H. Yang, T. Jin, P. Chen, Y. Chen, B. F. Kamhoua, and J. Cheng
+  
+  WWW 2021  [[PDF](http://arxiv.org/abs/2101.11525v1)]
+
+  ▷*Node representation learning*
+  
 - Self-supervised Smoothing Graph Neural Networks
 
   L. Yu, S. Pei, C. Zhang, L. Ding, J. Zhou, L. Li, and X. Zhang
@@ -194,14 +210,6 @@ Feel free to send [pull requests](pulls) to add more links!
   C. Mavromatis and G. Karypis
 
   arXiv 2020  [[PDF](https://arxiv.org/abs/2009.06946)]
-
-  ▷*Node representation learning*
-
-- Graph Contrastive Learning with Adaptive Augmentation
-
-  Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang
-
-  arXiv 2020  [[PDF](http://arxiv.org/abs/2010.14945)]
 
   ▷*Node representation learning*
 
