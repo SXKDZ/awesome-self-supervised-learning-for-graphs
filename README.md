@@ -25,7 +25,7 @@ Feel free to send [pull requests](pulls) to add more links!
 
 ## Papers
 
-### Survey
+### Surveys
 
 * Self-supervised Learning: Generative or Contrastive
 
@@ -37,6 +37,11 @@ Feel free to send [pull requests](pulls) to add more links!
   Y. Xie, Z. Xu, Z. Wang, and S. Ji
   
   arXiv 2021  [[PDF](http://arxiv.org/abs/2102.10757)]
+* Graph Self-Supervised Learning: A Survey
+  
+  Y. Liu, S. Pan, M. Jin, C. Zhou, F. Xia, and P. S. Yu
+  
+  arXiv.org 2021  [[PDF](http://arxiv.org/abs/2103.00111)]
 
 ### Generative/Predictive Methods
 
@@ -92,7 +97,6 @@ Feel free to send [pull requests](pulls) to add more links!
   ICLR 2019  [[PDF](https://openreview.net/forum?id=rklz9iAcKQ), [Code](https://github.com/PetarV-/DGI)]
 
   ▷*Node representation learning*
-  
 * Spatio-Temporal Deep Graph Infomax
 
   F. L. Opolka, A. Solomon, C. Cangea, P. Veličković, P. Liò, and R. D. Hjelm
@@ -100,7 +104,6 @@ Feel free to send [pull requests](pulls) to add more links!
   ICLR-W (RLGM) 2019  [[PDF](https://arxiv.org/abs/1904.06316)]
 
   ▷*Node representation learning*
-  
 * Graph Representation Learning via Graphical Mutual Information Maximization
 
   Z. Peng, W. Huang, M. Luo, Q. Zheng, Y. Rong, T. Xu, and J. Huang
@@ -108,7 +111,6 @@ Feel free to send [pull requests](pulls) to add more links!
   WWW 2020  [[PDF](https://dl.acm.org/doi/10.1145/3366423.3380112), [Code](https://github.com/zpeng27/GMI)]
 
   ▷*Node representation learning*
-  
 * Contrastive Learning of Structured World Models
 
   T. N. Kipf, E. van der Pol, and M. Welling
@@ -116,7 +118,6 @@ Feel free to send [pull requests](pulls) to add more links!
   ICLR 2020  [[PDF](https://openreview.net/forum?id=H1gax6VtDB), [Code](https://github.com/tkipf/c-swm)]
 
   ▷*Relational inference*
-  
 * Contrastive Multi-View Representation Learning on Graphs
 
   K. Hassani and A. H. Khasahmadi
@@ -124,7 +125,6 @@ Feel free to send [pull requests](pulls) to add more links!
   ICML 2020  [[PDF](https://arxiv.org/abs/2006.05582), [Code](https://github.com/kavehhassani/mvgrl)]
 
   ▷*Node/graph representation learning*
-  
 * Deep Graph Contrastive Representation Learning
 
   Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang
@@ -132,7 +132,6 @@ Feel free to send [pull requests](pulls) to add more links!
   ICML-W (GRL+) 2020  [[PDF](https://arxiv.org/abs/2006.04131), [Code](https://github.com/CRIPAC-DIG/GRACE/)]
 
   ▷*Node representation learning*
-  
 * GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training
 
   J. Qiu, Q. Chen, Y. Dong, J. Zhang, H. Yang, M. Ding, K. Wang, and J. Tang
@@ -140,7 +139,6 @@ Feel free to send [pull requests](pulls) to add more links!
   KDD 2020  [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403168), [Code](https://github.com/THUDM/GCC)]
 
   ▷*Pretraining graphs*
-  
 * Graph Contrastive Learning with Augmentations
 
   Y. You, T. Chen, Y. Sui, T. Chen, Z. Wang, and Y. Shen
@@ -148,7 +146,6 @@ Feel free to send [pull requests](pulls) to add more links!
   NeurIPS 2020  [[PDF](http://arxiv.org/abs/2010.13902), [Code](https://github.com/Shen-Lab/GraphCL)]
 
   ▷*Node representation learning, pretraining graphs*
-  
 * Sub-graph Contrast for Scalable Self-Supervised Graph Representation Learning
 
   Y. Jiao, Y. Xiong, J. Zhang, Y. Zhang, T. Zhang, and Y. Zhu
@@ -156,7 +153,6 @@ Feel free to send [pull requests](pulls) to add more links!
   ICDM 2020  [[PDF](http://arxiv.org/abs/2009.10273)]
 
   ▷*Sub-graph representation learning*
-  
 * Bipartite Graph Embedding via Mutual Information Maximization
 
   J. Cao, X. Lin, S. Guo, L. Liu, T. Liu, and B. Wang
@@ -164,7 +160,6 @@ Feel free to send [pull requests](pulls) to add more links!
   WSDM 2021  [[PDF](https://arxiv.org/abs/2012.05442), [Code](https://github.com/caojiangxia/BiGI)]
 
   ▷*Bipartite graph representation learning*
-  
 * Contrastive Self-supervised Learning for Graph Classification
 
   J. Zeng and P. Xie
@@ -172,7 +167,6 @@ Feel free to send [pull requests](pulls) to add more links!
   AAAI 2021  [[PDF](https://arxiv.org/abs/2009.05923)]
 
   ▷*Graph representation learning*
-  
 * Contrastive and Generative Graph Convolutional Networks for Graph-Based Semi-Supervised Learning
 
   S. Wan, S. Pan, J. Yang, and C. Gong
@@ -180,7 +174,6 @@ Feel free to send [pull requests](pulls) to add more links!
   AAAI 2021  [[PDF](https://arxiv.org/abs/2009.07111)]
 
   ▷*Semi-supervised node representation learning*
-  
 * Graph Contrastive Learning with Adaptive Augmentation
 
   Y. Zhu, Y. Xu, F. Yu, Q. Liu, S. Wu, and L. Wang
@@ -188,7 +181,6 @@ Feel free to send [pull requests](pulls) to add more links!
   WWW 2021  [[PDF](http://arxiv.org/abs/2010.14945)]
 
   ▷*Node representation learning*
-  
 * Improving Graph Representation Learning by Contrastive Regularization
 
   K. Ma, H. Yang, H. Yang, T. Jin, P. Chen, Y. Chen, B. F. Kamhoua, and J. Cheng
@@ -196,7 +188,6 @@ Feel free to send [pull requests](pulls) to add more links!
   WWW 2021  [[PDF](http://arxiv.org/abs/2101.11525)]
 
   ▷*Node representation learning*
-  
 * Self-supervised Smoothing Graph Neural Networks
 
   L. Yu, S. Pei, C. Zhang, L. Ding, J. Zhou, L. Li, and X. Zhang
@@ -204,7 +195,6 @@ Feel free to send [pull requests](pulls) to add more links!
   arXiv 2020  [[PDF](https://arxiv.org/abs/2009.00934)]
 
   ▷*Node representation learning*
-  
 * Graph InfoClust: Leveraging Cluster-Level Node Information for Unsupervised Graph Representation Learning
 
   C. Mavromatis and G. Karypis
@@ -212,7 +202,6 @@ Feel free to send [pull requests](pulls) to add more links!
   arXiv 2020  [[PDF](https://arxiv.org/abs/2009.06946)]
 
   ▷*Node representation learning*
-  
 * Towards Domain-Agnostic Contrastive Learning
 
   V. Verma, M.-T. Luong, K. Kawaguchi, H. Pham, and Q. V. Le
@@ -220,7 +209,6 @@ Feel free to send [pull requests](pulls) to add more links!
   arXiv 2020  [[PDF](https://arxiv.org/abs/2011.04419)]
 
   ▷*Graph representation learning*
-  
 * Contrastive Learning with Hard Negative Samples
 
   J. Robinson, C.-Y. Chuang, S. Sra, and S. Jegelka
@@ -228,7 +216,6 @@ Feel free to send [pull requests](pulls) to add more links!
   arXiv 2020  [[PDF](http://arxiv.org/abs/2010.04592)]
 
   ▷*Graph representation learning*
-  
 * Motif-Driven Contrastive Learning of Graph Representations
 
   S. Zhang, Z. Hu, A. Subramonian, and Y. Sun
@@ -236,7 +223,6 @@ Feel free to send [pull requests](pulls) to add more links!
   arXiv 2020  [[PDF](http://arxiv.org/abs/2012.12533)]
 
   ▷*Pretraining graphs*
-  
 * Iterative Graph Self-Distillation
 
   H. Zhang, S. Lin, W. Liu, P. Zhou, J. Tang, X. Liang, and E. P. Xing
@@ -244,7 +230,6 @@ Feel free to send [pull requests](pulls) to add more links!
   arXiv 2020  [[PDF](http://arxiv.org/abs/2010.12609)]
 
   ▷*Graph representation learning*
-  
 * Bootstrapped Representation Learning on Graphs
 
   S. Thakoor, C. Tallec, M. G. Azar, R. Munos, P. Veličković, and M. Valko
@@ -284,6 +269,11 @@ Feel free to send [pull requests](pulls) to add more links!
   Ankesh Anand
 
   2020  [[URL](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)]
+* Graph Contrastive Learning
+  
+  Yanqiao Zhu
+  
+  2021  [[URL](https://sxkdz.github.io/research/GraphCL/)]
 
 ## Talks
 
