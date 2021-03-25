@@ -17,7 +17,7 @@ Feel free to send [pull requests](pulls) to add more links!
 ## Table of Contents
 
 * [Papers](#papers)
-  * [Survey](#survey)
+  * [Surveys](#surveys)
   * [Generative/Predictive Methods](#generativepredictive-methods)
   * [Contrastive Methods](#contrastive-methods)
 * [Blog Posts](#blog-posts)
@@ -73,6 +73,13 @@ Feel free to send [pull requests](pulls) to add more links!
   KDD 2020  [[PDF](https://dl.acm.org/doi/10.1145/3394486.3403237), [Code](https://github.com/acbull/GPT-GNN)]
 
   ▷*Pretraining graphs*
+* Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs
+ 
+  D. Hwang, J. Park, S. Kwon, K.-M. Kim, J.-W. Ha, and H. J. Kim
+  
+  NeurIPS 2020 [[PDF](https://proceedings.neurips.cc/paper/2020/hash/74de5f915765ea59816e770a8e686f38-Abstract.html)]
+  
+  ▷*Heterogeneous graphs*
 * CAGNN: Cluster-Aware Graph Neural Networks for Unsupervised Graph Representation Learning
 
   Y. Zhu, Y. Xu, F. Yu, S. Wu, and L. Wang
@@ -86,6 +93,13 @@ Feel free to send [pull requests](pulls) to add more links!
 
   arXiv 2020  [[PDF](https://arxiv.org/abs/2006.10141), [Code](https://github.com/ChandlerBang/SelfTask-GNN)]
 
+  ▷*Node representation learning*
+* Self-Supervised Graph Representation Learning via Global Context Prediction
+
+  Z. Peng, Y. Dong, M. Luo, X.-M. Wu, and Q. Zheng
+  
+  arXiv 2020  [[PDF](http://arxiv.org/abs/2003.01604)]
+  
   ▷*Node representation learning*
 
 ### Contrastive Methods
