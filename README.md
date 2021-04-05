@@ -74,7 +74,7 @@ Feel free to send [pull requests](pulls) to add more links!
 
   ▷*Pretraining graphs*
 * Self-supervised Auxiliary Learning with Meta-paths for Heterogeneous Graphs
- 
+
   D. Hwang, J. Park, S. Kwon, K.-M. Kim, J.-W. Ha, and H. J. Kim
   
   NeurIPS 2020 [[PDF](https://proceedings.neurips.cc/paper/2020/hash/74de5f915765ea59816e770a8e686f38-Abstract.html)]
@@ -200,6 +200,13 @@ Feel free to send [pull requests](pulls) to add more links!
   K. Ma, H. Yang, H. Yang, T. Jin, P. Chen, Y. Chen, B. F. Kamhoua, and J. Cheng
   
   WWW 2021  [[PDF](http://arxiv.org/abs/2101.11525)]
+
+  ▷*Node representation learning*
+* Self-Supervised Graph Neural Networks Without Explicit Negative Sampling
+
+  Z. T. Kefato and S. Girdzijauskas
+
+  SSL@WWW 2021  [[PDF](http://arxiv.org/abs/2103.14958)]
 
   ▷*Node representation learning*
 * Self-supervised Smoothing Graph Neural Networks
