@@ -133,13 +133,6 @@ Feel free to send [pull requests](pulls) to add more links!
   WWW 2021  [[PDF](https://arxiv.org/abs/2010.14945), [Code](https://github.com/CRIPAC-DIG/GCA)]
 
   ▷*Node representation learning*
-* Improving Graph Representation Learning by Contrastive Regularization
-
-  K. Ma, H. Yang, H. Yang, T. Jin, P. Chen, Y. Chen, B. F. Kamhoua, and J. Cheng
-  
-  WWW 2021  [[PDF](https://arxiv.org/abs/2101.11525)]
-
-  ▷*Node representation learning*
 * SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism
 
   Q. Sun, J. Li, H. Peng, J. Wu, Y. Ning, P. S. Yu, and L. He
@@ -316,6 +309,20 @@ Feel free to send [pull requests](pulls) to add more links!
   WWW 2021 [[PDF](https://arxiv.org/abs/2010.11711)]
 
   ▷*Drug-drug interaction prediction*
+* Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation
+
+  J. Yu, H. Yin, J. Li, Q. Wang, N. Q. V. Hung, and X. Zhang
+  
+  WWW 2021  [[PDF](https://arxiv.org/abs/2101.06448)]
+  
+  ▷*Social recommendation*
+* Self-supervised Graph Learning for Recommendation
+
+  J. Wu, X. Wang, F. Feng, X. He, L. Chen, J. Lian, and X. Xie
+  
+  SIGIR 2021  [[PDF](https://arxiv.org/abs/2010.10783)]
+
+  ▷*Collaborative filtering*
 
 ## Blog Posts
 
