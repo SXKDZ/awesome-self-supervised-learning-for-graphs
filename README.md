@@ -182,6 +182,13 @@ Feel free to send [pull requests](pulls) to add more links!
   ICLR 2021  [[PDF](https://arxiv.org/abs/2010.04592)]
 
   ▷*Graph representation learning*
+* Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning
+
+  M. Jin, Y. Zheng, Y.-F. Li, C. Gong, C. Zhou, and S. Pan
+  
+  IJCAI 2021  [[PDF](https://arxiv.org/abs/2105.05682)]
+  
+  ▷*Node representation learning*
 * Bootstrapped Representation Learning on Graphs
 
   S. Thakoor, C. Tallec, M. G. Azar, R. Munos, P. Veličković, and M. Valko
