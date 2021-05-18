@@ -41,7 +41,12 @@ Feel free to send [pull requests](pulls) to add more links!
   
   Y. Liu, S. Pan, M. Jin, C. Zhou, F. Xia, and P. S. Yu
   
-  arXiv.org 2021  [[PDF](https://arxiv.org/abs/2103.00111)]
+  arXiv 2021  [[PDF](https://arxiv.org/abs/2103.00111)]
+* Self-supervised on Graphs: Contrastive, Generative, or Predictive
+
+  L. Wu, H. Lin, Z. Gao, C. Tan, and S. Z. Li
+  
+  arXiv 2021  [[PDF](https://arxiv.org/abs/2105.07342)]
 
 ### Generative/Predictive Methods
 
