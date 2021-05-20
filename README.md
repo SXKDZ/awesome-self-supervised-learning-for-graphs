@@ -194,6 +194,13 @@ Feel free to send [pull requests](pulls) to add more links!
   IJCAI 2021  [[PDF](https://arxiv.org/abs/2105.05682)]
   
   ▷*Node representation learning*
+* Graph InfoClust: Maximizing Coarse-Grain Mutual Information in Graphs
+
+  C. Mavromatis and G. Karypis
+  
+  PAKDD 2021  [[PDF](https://link.springer.com/chapter/10.1007%2F978-3-030-75762-5_43)]
+  
+  ▷*Node representation learning*
 * Bootstrapped Representation Learning on Graphs
 
   S. Thakoor, C. Tallec, M. G. Azar, R. Munos, P. Veličković, and M. Valko
@@ -272,13 +279,6 @@ Feel free to send [pull requests](pulls) to add more links!
   L. Yu, S. Pei, C. Zhang, L. Ding, J. Zhou, L. Li, and X. Zhang
 
   arXiv 2020  [[PDF](https://arxiv.org/abs/2009.00934)]
-
-  ▷*Node representation learning*
-* Graph InfoClust: Leveraging Cluster-Level Node Information for Unsupervised Graph Representation Learning
-
-  C. Mavromatis and G. Karypis
-
-  arXiv 2020  [[PDF](https://arxiv.org/abs/2009.06946)]
 
   ▷*Node representation learning*
 * Towards Domain-Agnostic Contrastive Learning
