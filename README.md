@@ -201,6 +201,13 @@ Feel free to send [pull requests](pulls) to add more links!
   PAKDD 2021  [[PDF](https://link.springer.com/chapter/10.1007%2F978-3-030-75762-5_43)]
   
   ▷*Node representation learning*
+* Self-supervised Graph-level Representation Learning with Local and Global Structure
+
+  M. Xu, H. Wang, B. Ni, H. Guo, and J. Tang
+
+  ICML 2021  [[PDF](https://arxiv.org/abs/2106.04113)]
+  
+  ▷*Pretraining graphs*
 * Bootstrapped Representation Learning on Graphs
 
   S. Thakoor, C. Tallec, M. G. Azar, R. Munos, P. Veličković, and M. Valko
