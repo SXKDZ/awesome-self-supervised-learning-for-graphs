@@ -208,6 +208,13 @@ Feel free to send [pull requests](pulls) to add more links!
   ICML 2021  [[PDF](https://arxiv.org/abs/2106.04113)]
   
   ▷*Pretraining graphs*
+* Graph Contrastive Learning Automated
+  
+  Y. You, T. Chen, Y. Shen, and Z. Wang
+
+  ICML 2021  [[PDF](https://arxiv.org/abs/2106.07594), [Code](https://github.com/Shen-Lab/GraphCL_Automated)]
+  
+  ▷*Graph representation learning*
 * Bootstrapped Representation Learning on Graphs
 
   S. Thakoor, C. Tallec, M. G. Azar, R. Munos, P. Veličković, and M. Valko
@@ -222,6 +229,34 @@ Feel free to send [pull requests](pulls) to add more links!
   arXiv 2021  [[PDF](https://arxiv.org/abs/2101.11525)]
   
   ▷*Graph/node representation learning*
+* Adversarial Graph Augmentation to Improve Graph Contrastive Learning,
+
+  S. Suresh, P. Li, C. Hao, and J. Neville
+  
+  arXiv 2021  [[PDF](https://arxiv.org/abs/2106.05819)]
+  
+  ▷*Graph representation learning*
+* Automated Self-Supervised Learning for Graphs
+
+  W. Jin, X. Liu, X. Zhao, Y. Ma, N. Shah, and J. Tang
+  
+  arXiv 2021  [[PDF](https://arxiv.org/abs/2106.05470)]
+  
+  ▷*Node representation learning*
+* Self-Supervised Graph Learning with Proximity-based Views and Channel Contrast
+ 
+  W. Zhuo and G. Tan
+  
+  arXiv 2021  [[PDF](https://arxiv.org/abs/2106.03723)]
+  
+  ▷*Node representation learning*
+* Fairness-Aware Node Representation Learning
+
+  Ö. D. Köse and Y. Shen
+  
+  arXiv 2021  [[PDF](https://arxiv.org/abs/2106.05391)]
+  
+  ▷*Node representation learning*
 
 #### Year 2020
 
