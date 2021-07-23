@@ -244,7 +244,7 @@ Feel free to send [pull requests](pulls) to add more links!
   
   ▷*Node representation learning*
 * Self-Supervised Graph Learning with Proximity-based Views and Channel Contrast
- 
+
   W. Zhuo and G. Tan
   
   arXiv 2021  [[PDF](https://arxiv.org/abs/2106.03723)]
@@ -257,6 +257,13 @@ Feel free to send [pull requests](pulls) to add more links!
   arXiv 2021  [[PDF](https://arxiv.org/abs/2106.05391)]
   
   ▷*Node representation learning*
+* Group Contrastive Self-Supervised Learning on Graphs
+  
+  X. Xu, C. Deng, Y. Xie, and S. Ji
+
+  arXiv 2021  [[PDF](https://arxiv.org/abs/2107.09787)]
+  
+  ▷*Graph/node representation learning*
 
 #### Year 2020
 
