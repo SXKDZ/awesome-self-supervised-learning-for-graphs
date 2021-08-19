@@ -215,6 +215,20 @@ Feel free to send [pull requests](pulls) to add more links!
   ICML 2021  [[PDF](https://arxiv.org/abs/2106.07594), [Code](https://github.com/Shen-Lab/GraphCL_Automated)]
   
   ▷*Graph representation learning*
+* Multi-View Self-Supervised Heterogeneous Graph Embedding
+
+  J. Zhao, Q. Wen, S. Sun, and Y. Ye 
+  
+  ECML PKDD 2021  [[PDF](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_408.pdf)]
+  
+  ▷*Heterogeneous graph representation learning*
+* GCCAD: Graph Contrastive Coding for Anomaly Detection
+  
+  B. Chen, J. Zhang, X. Zhang, Y. Dong, J. Song, P. Zhang, K. Xu, E. Kharlamov, and J. Tang
+  
+  arXiv 2021 [[PDF](https://arxiv.org/abs/2108.07516v1)]
+  
+  ▷*Anomaly detection*
 * Bootstrapped Representation Learning on Graphs
 
   S. Thakoor, C. Tallec, M. G. Azar, R. Munos, P. Veličković, and M. Valko
