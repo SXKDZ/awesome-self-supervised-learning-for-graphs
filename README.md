@@ -211,11 +211,12 @@ Feel free to send [pull requests](pulls) to add more links!
 * Self-supervised Graph Learning for Recommendation, SIGIR 2021  [[PDF](https://arxiv.org/abs/2010.10783)]
 
   ▷*Collaborative filtering*
-  
+* Social Recommendation with Self-Supervised Metagraph Informax Network, CIKM 2021  [[PDF](https://arxiv.org/abs/2110.03958v1)]
+
+  ▷*Social recommendation*
 * CCGL: Contrastive Cascade Graph Learning, arXiv 2021 [[PDF](https://arxiv.org/abs/2107.12576)]
 
   ▷*Information cascade prediction*
-
 
 ## Blog Posts
 
