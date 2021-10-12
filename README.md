@@ -107,9 +107,18 @@ Feel free to send [pull requests](pulls) to add more links!
 * Graph Contrastive Learning Automated, ICML 2021  [[PDF](https://arxiv.org/abs/2106.07594), [Code](https://github.com/Shen-Lab/GraphCL_Automated)]
   
   ▷*Graph representation learning*
+* Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks, IJCAI 2021  [[PDF](https://www.ijcai.org/proceedings/2021/371)]
+
+  ▷*Graph pretraining, molecule classification*
+* Graph Debiased Contrastive Learning with Joint Representation Clustering, IJCAI 2021  [[PDF](https://www.ijcai.org/proceedings/2021/473)]
+
+  ▷*Node representation learning*
 * Multi-View Self-Supervised Heterogeneous Graph Embedding, ECML PKDD 2021  [[PDF](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_408.pdf)]
   
   ▷*Heterogeneous graph representation learning*
+* Adversarial Graph Augmentation to Improve Graph Contrastive Learning, NeurIPS 2021  [[PDF](https://arxiv.org/abs/2106.05819)]
+  
+  ▷*Graph representation learning*
 * GCCAD: Graph Contrastive Coding for Anomaly Detection, arXiv 2021 [[PDF](https://arxiv.org/abs/2108.07516v1)]
   
   ▷*Anomaly detection*
@@ -119,9 +128,6 @@ Feel free to send [pull requests](pulls) to add more links!
 * Improving Graph Representation Learning by Contrastive Regularization, arXiv 2021  [[PDF](https://arxiv.org/abs/2101.11525)]
   
   ▷*Graph/node representation learning*
-* Adversarial Graph Augmentation to Improve Graph Contrastive Learning, arXiv 2021  [[PDF](https://arxiv.org/abs/2106.05819)]
-  
-  ▷*Graph representation learning*
 * Automated Self-Supervised Learning for Graphs, arXiv 2021  [[PDF](https://arxiv.org/abs/2106.05470)]
   
   ▷*Node representation learning*
@@ -134,10 +140,22 @@ Feel free to send [pull requests](pulls) to add more links!
 * Group Contrastive Self-Supervised Learning on Graphs, arXiv 2021  [[PDF](https://arxiv.org/abs/2107.09787)]
   
   ▷*Graph/node representation learning*
-* AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators, arXiv  [[PDF](https://arxiv.org/abs/2109.10259)]
+* AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators, arXiv 2021  [[PDF](https://arxiv.org/abs/2109.10259)]
   
   ▷*Graph representation learning*
-  
+* Debiased Graph Contrastive Learning, arXiv 2021  [[PDF](https://arxiv.org/abs/2110.02027)]
+
+  ▷*Node representation learning*
+* Adaptive Multi-layer Contrastive Graph Neural Networks, arXiv 2021  [[PDF](https://arxiv.org/abs/2109.14159)]
+
+  ▷*Node representation learning*
+* Jointly Learnable Data Augmentations for Self-Supervised GNNs, arXiv 2021  [[PDF](https://arxiv.org/abs/2108.10420)]
+
+  ▷*Node representation learning*
+* Spatio-Temporal Graph Contrastive Learning, arXiv 2021  [[PDF](https://arxiv.org/abs/2108.11873)]
+
+  ▷*Spatio-temporal graph representation learning*
+
 #### Year 2020
 
 * Unsupervised Attributed Multiplex Network Embedding, AAAI 2020  [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/5985)]
