@@ -119,7 +119,13 @@ Feel free to send [pull requests](pulls) to add more links!
 * Adversarial Graph Augmentation to Improve Graph Contrastive Learning, NeurIPS 2021  [[PDF](https://arxiv.org/abs/2106.05819)]
   
   ▷*Graph representation learning*
-* GCCAD: Graph Contrastive Coding for Anomaly Detection, arXiv 2021 [[PDF](https://arxiv.org/abs/2108.07516v1)]
+* InfoGCL: Information-Aware Graph Contrastive Learning, NeurIPS 2021  [[PDF](https://arxiv.org/abs/2110.15438)]
+
+  ▷*Node/graph representation learning*
+* Directed Graph Contrastive Learning, NeurIPS 2021  [[PDF](https://zekuntong.com/files/digcl_nips.pdf)]
+
+  ▷*Directed graph representation learning*
+* GCCAD: Graph Contrastive Coding for Anomaly Detection, arXiv 2021 [[PDF](https://arxiv.org/abs/2108.07516)]
   
   ▷*Anomaly detection*
 * Bootstrapped Representation Learning on Graphs, arXiv 2021  [[PDF](https://arxiv.org/abs/2102.06514)]
