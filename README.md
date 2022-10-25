@@ -34,7 +34,7 @@ Feel free to send [pull requests](pulls) to add more links!
 
 ### Generative/Predictive Methods
 
-#### Year 2020
+#### Year 2021
 * Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes, AAAI 2020  [[PDF](https://aaai.org/ojs/index.php/AAAI/article/view/6048/5904), [Code](https://github.com/datake/M3S)]
 
   ▷*Node representation learning*
